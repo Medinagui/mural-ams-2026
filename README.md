@@ -126,3 +126,4 @@ node --test robo/regras.test.js   # roda os testes do robô
 ---
 
 Aula ministrada por Guilherme Medina (Thompson Tecnologia) para a turma do AMS · Centro Paula Souza, em 23/10/2026.
+
